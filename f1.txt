@@ -1,0 +1,6 @@
+This is the f1.txt file
+
+Or these is the data inside the file
+
+
+//welcome to day 1 of the file contents

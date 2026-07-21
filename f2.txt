@@ -1,0 +1,6 @@
+hello this is the f2.txt file
+
+so now we'll add some data inside this file 
+
+
+//welcome to day 2 of f2.txt file
