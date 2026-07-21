@@ -4,3 +4,10 @@ Or these is the data inside the file
 
 
 //welcome to day 1 of the file contents
+
+
+
+//welcome to Day 2 of the file 
+
+
+so below is the code for Day 2 
