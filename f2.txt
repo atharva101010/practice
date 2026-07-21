@@ -4,3 +4,13 @@ so now we'll add some data inside this file
 
 
 //welcome to day 2 of f2.txt file
+
+
+so this is the code for day2
+
+
+// welcome to day 3 
+
+
+
+so developer made this changes to day 3 file
